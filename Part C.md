@@ -6,7 +6,7 @@
 - Dissable antivirus/firewall
 - Clean Boot
   
-More info
+### More info
 
 [https://www.techtarget.com/searchenterprisedesktop/tip/Troubleshooting-the-most-common-issues-with-Windows-11]
 
