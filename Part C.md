@@ -7,6 +7,7 @@
 - Clean Boot
   
 More info
+
 [https://www.techtarget.com/searchenterprisedesktop/tip/Troubleshooting-the-most-common-issues-with-Windows-11]
 
 [https://www.boostitco.com/blog/ways-to-fix-programs-that-wont-open-on-windows-10/]
