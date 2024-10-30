@@ -1,1 +1,8 @@
-# Basic Microsoft Office Troubleshooting #
+# Basic Microsoft Office Troubleshooting 
+
+- Update MS Office
+- Repair MS Office
+- 
+### More Information
+ 
+ [https://medium.com/@info_5679/microsoft-office-issues-and-their-fixes-a-comprehensive-guide-4d7cb2bbe595]
