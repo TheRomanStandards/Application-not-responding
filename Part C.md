@@ -1,5 +1,5 @@
 # MS windows application troubleshooting in general #
-##Methods to troubleshoot##
+## Methods to troubleshoot ##
 - Windows Updates
 - Insufficient storage space
 - Restart PC
