@@ -1,5 +1,5 @@
 # Basic Microsoft Office Troubleshooting 
-
+## Methods to troublshoot
 - Update MS Office
 - Repair MS Office
 - 
