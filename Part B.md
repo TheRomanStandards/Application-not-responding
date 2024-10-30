@@ -1,1 +1,1 @@
-# Basic Microsoft Office Trouble Shooting #
+# Basic Microsoft Office Troubleshooting #
